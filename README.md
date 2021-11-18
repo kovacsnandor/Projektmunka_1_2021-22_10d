@@ -111,7 +111,7 @@ Az alkatrész csomagban található [RGB led(ek)](https://www.hestore.hu/prod_10
 
 # Közlekedési lámpa
 ## Csoporttagok
-- Medgyes Csabika (csoportvezető)
+- Medgyes Csaba (csoportvezető)
 - Oláh Péter
 - Kovács János
 ## Feladat leírása
