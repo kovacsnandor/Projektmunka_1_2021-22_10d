@@ -68,7 +68,7 @@ A távolságmérő egy nyomógomb segítségével egy memóriába tárolja el a 
 - 4. nyomógomb: Az utolsó két mérési adat alapján számoljon területet
 - 5. nyomógomb: Az utolsó három mérési adat alapján számoljon térfogatot
 
-# "Nagy távolságú" hőmérésklet mérés kapcsolóval
+# Hőmérséklet szabályzó
 ## Csoporttagok
 - Jáger Kristóf (csoportvezető)
 - Suki Zsolt
@@ -96,7 +96,7 @@ mérő eszközt, ami egy 7 szegmenses kijelzőn mutatja az értékeket: [A881 0.
 Egy nyomógomb segítségével lehessen váltani a különböző funkciók között.
 A különböző funkciókhoz legyen egy dugalj elrendezés, ami meghatározza, hogy mit lehet vele mérni.
 
-# Bicikli lámpa RGB leddel.
+# Bicikli lámpa RGB leddel
 ## Csoporttagok
 - Fehér Zsolt Dorián (csoportvezető)
 - Kocsis Bence
